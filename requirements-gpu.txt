@@ -1,0 +1,7 @@
+# Separate GPU environment; requires a compatible NVIDIA driver and Python 3.11–3.13.
+rembg[gpu]==2.0.86
+onnxruntime-gpu[cuda,cudnn]==1.30.0
+
+# Patched image decoder and certificate trust store.
+Pillow>=13.0.0
+certifi>=2026.10.23

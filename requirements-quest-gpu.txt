@@ -1,0 +1,5 @@
+# Dedicated NVIDIA depth runtime; keep separate from cutout model environments.
+numpy>=1.26
+Pillow>=13.0.0
+onnxruntime-gpu[cuda,cudnn]==1.30.0
+certifi>=2026.10.23

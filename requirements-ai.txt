@@ -1,0 +1,7 @@
+# CPU versions validated with Python 3.12; use a matching GPU extra/runtime for GPU acceleration.
+rembg[cpu]==2.0.86
+onnxruntime==1.30.0
+
+# Patched image decoder and certificate trust store.
+Pillow>=13.0.0
+certifi>=2026.10.23

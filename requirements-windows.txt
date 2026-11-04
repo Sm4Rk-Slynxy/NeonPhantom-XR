@@ -1,0 +1,11 @@
+# Base CPU cutout and the native translucent desktop player. Python 3.12 recommended.
+rembg[cpu]==2.0.86
+onnxruntime==1.30.0
+PySide6==6.12.0
+
+# Local HTTPS certificates for Quest Browser.
+cryptography>=44
+
+# Patched image decoder and certificate trust store.
+Pillow>=13.0.0
+certifi>=2026.10.23

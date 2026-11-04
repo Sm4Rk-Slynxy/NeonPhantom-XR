@@ -1,0 +1,16 @@
+{
+  "name": "neonphantom-xr-viewer",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build --outDir ../site --emptyOutDir"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "vite": "6.4.5",
+    "iwer": "2.7.0"
+  }
+}

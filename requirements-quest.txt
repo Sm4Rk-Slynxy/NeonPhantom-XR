@@ -1,0 +1,6 @@
+cryptography>=44
+# CPU-only depth inference for 2D-to-3D SBS conversion.
+numpy>=1.26
+Pillow>=13.0.0
+onnxruntime==1.30.0
+certifi>=2026.10.23
