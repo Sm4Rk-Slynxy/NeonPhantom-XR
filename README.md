@@ -7,6 +7,9 @@ Remove a background, keep the subject, and play the result on your desktop or in
 ![NeonPhantom XR desktop studio with synthetic demo footage](docs/screenshots/studio.png)
 
 *Screenshots use generated geometric figures and invented library data. They demonstrate the interface, not AI matting quality.*
+<img width="2445" height="1238" alt="Screenshot From 2026-11-04 15-06-56" src="https://github.com/user-attachments/assets/bd360f40-38f2-4c5b-af67-5fbf3fe325d6" />
+<img width="2445" height="1238" alt="Screenshot From 2026-11-04 15-06-54" src="https://github.com/user-attachments/assets/4ae371d4-7439-41c0-9368-57f1927d7b1b" />
+<img width="2445" height="1238" alt="Screenshot From 2026-11-04 15-06-44" src="https://github.com/user-attachments/assets/8c1fbaf1-0efb-4cf4-ab33-4d01e48b4db8" />
 
 ## What it does
 
